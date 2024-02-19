@@ -48,7 +48,7 @@ Follow these steps to set up VoiceYourMail on your Raspberry Pi. Make sure to ch
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/VoiceYourMail.git
+git clone https://github.com/nishanth9491/VoiceYourMail.git
 
 # Navigate to the project directory
 cd VoiceYourMail
